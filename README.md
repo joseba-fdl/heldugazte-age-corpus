@@ -15,7 +15,7 @@ Please cite the following publication if you use any of the versions of the Held
 
 ```
 @article{doi:10.1080/01434632.2021.1962331,
-  author = {Joseba Fernandez de Landa and Rodrigo Agerri},
+  author = {Fernandez de Landa, Joseba and Agerri, Rodrigo},
   title = {Social analysis of young Basque-speaking communities in twitter},
   journal = {Journal of Multilingual and Multicultural Development},
   volume = {0},
